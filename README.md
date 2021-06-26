@@ -28,4 +28,6 @@ You will be prompted to configure your hydroponics when system starts.
 - Ability to control device by WiFi, Bluetooth, LoRaWAN or another wireless technology
 - Machine learning to analyse collected data
 
+### Optimise code, use OOP paradigm
+
 ### Test every system module, especially pH and TDS control
